@@ -27,3 +27,7 @@ An anticipated service breakdown would be:
 * Improved documentation of overall architecture
 * Improved documentation of data modelling choices
 * Processes for deploying into a hosted environment
+
+### Setup
+
+* The tessaract configs must be downloaded into the src/main/resources/tessdata folder from [Tessaract on gitHub](https://github.com/tesseract-ocr/tessconfigs.git)
